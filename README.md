@@ -73,7 +73,7 @@ int main()
 ```
 
 ## OUTPUT:
-![image](https://github.com/praveenvenkatt/Cryptography---19CS412-classical-techqniques/assets/119560117/aaa62c2e-638d-426d-85c4-8204164db251)
+![image](https://github.com/surrey-78/Cryptography---19CS412-classical-techqniques/assets/119559366/27d805f8-0e5e-43b0-93fc-1315fe988c61)
 
 
 
@@ -237,7 +237,8 @@ int main()
 ```
 
 ## OUTPUT:
-![image](https://github.com/praveenvenkatt/Cryptography---19CS412-classical-techqniques/assets/119560117/aa6282e9-986b-44a5-a18f-ca5f88a26914)
+![WhatsApp Image 2024-10-21 at 09 15 22_2f35b849](https://github.com/user-attachments/assets/fb45d595-3615-4fe4-8f03-d2a2baee0b06)
+
 
 
 ## RESULT:
@@ -298,7 +299,7 @@ int main()
 }
 ```
 ## OUTPUT:
-![image](https://github.com/praveenvenkatt/Cryptography---19CS412-classical-techqniques/assets/119560117/9f2da3a2-637f-4ef1-b895-0e8f86f3035c)
+![WhatsApp Image 2024-10-21 at 09 27 44_15099a54](https://github.com/user-attachments/assets/ee0690f4-169e-4335-9fad-2fe1a5b8bb15)
 
 
 ## RESULT:
@@ -395,7 +396,8 @@ int main()
 ```
 
 ## OUTPUT:
-![image](https://github.com/praveenvenkatt/Cryptography---19CS412-classical-techqniques/assets/119560117/608e85b7-31e5-4808-95a3-e58faadfe118)
+![WhatsApp Image 2024-10-21 at 09 36 57_1182ad86](https://github.com/user-attachments/assets/7b959294-c95b-4ce9-b4a8-5289e076ab23)
+
 
 
 ## RESULT:
@@ -481,7 +483,8 @@ int main()
 ```
 
 ## OUTPUT:
-![image](https://github.com/praveenvenkatt/Cryptography---19CS412-classical-techqniques/assets/119560117/e634e969-1462-4899-b38d-509b66c24dfe)
+![WhatsApp Image 2024-10-21 at 09 47 51_cfb89f2d](https://github.com/user-attachments/assets/7309a740-7996-4f3c-b744-989347a6dfab)
+
 
 
 
